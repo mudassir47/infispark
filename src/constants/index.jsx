@@ -2,23 +2,24 @@ export const features = [
   {
     id: "0",
     icon: "/images/feature-1.png",
-    caption: "Easy integration",
-    title: "Work smarter not harder",
-    text: "With Xora, tedious tasks are history. Automation and smart processes bring your productivity to new heights. It's like having an extra cup of coffee, but without the jitters.",
+    caption: "Secure Applications",
+    title: "Your Data, Our Priority",
+    text: "Security is at the core of Infi Spark's development process. We build robust, secure, and scalable software that keeps your data safe and your business running smoothly.",
     button: {
+     
       icon: "/images/magictouch.svg",
-      title: "Watch the demo",
+      title: "Discover Security",
     },
   },
   {
     id: "1",
     icon: "/images/feature-2.png",
-    caption: "Secure & trustworthy",
-    title: "Sleep easy, we got your back",
-    text: "Your data security is our priority. With state-of-the-art encryption and robust privacy controls, Xora helps keeps your information secure and locked up tighter than Fort Knox.",
+    caption: "Agile Development",
+    title: "Adapt and Innovate",
+    text: "Infi Spark's agile methodologies ensure faster delivery, seamless adaptability, and collaboration. We bring your vision to life through iterative and incremental progress.",
     button: {
       icon: "/images/docs.svg",
-      title: "Read the docs",
+      title: "Explore Process",
     },
   },
 ];
@@ -27,85 +28,85 @@ export const details = [
   {
     id: "0",
     icon: "/images/detail-1.png",
-    title: "AI automated video editing",
+    title: "Custom Software Solutions",
   },
   {
     id: "1",
     icon: "/images/detail-2.png",
-    title: "Collaborate with your team",
+    title: "Agile Development Process",
   },
   {
     id: "2",
     icon: "/images/detail-3.png",
-    title: "Ultra fast cloud-engine",
+    title: "Scalable Architecture Design",
   },
   {
     id: "3",
     icon: "/images/detail-4.png",
-    title: "24 / 7 Customer support",
+    title: "24/7 Technical Support",
   },
 ];
 
 export const faq = [
   {
     id: "0",
-    question: "How easy is it to setup Xora?",
+    question: "How easy is it to get started with Infi Spark?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Getting started with Infi Spark is quick and seamless. Our team ensures a smooth onboarding process, helping you set up and integrate effortlessly.",
   },
   {
     id: "1",
-    question: "Can I integrate Xora with other platforms?",
+    question: "Can I integrate Infi Spark solutions with other platforms?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Absolutely! Infi Spark offers versatile integrations with various platforms to streamline your workflow and enhance productivity.",
   },
   {
     id: "2",
-    question: "How often do you add new content?",
+    question: "How often do you update or improve your solutions?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "We regularly update our software solutions to incorporate the latest technologies and feedback, ensuring you always have access to the best tools.",
   },
   {
     id: "3",
-    question: "What your refund policy?",
+    question: "What is your refund policy?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "At Infi Spark, customer satisfaction is a priority. We offer flexible refund policies tailored to specific project agreements and plans.",
   },
   {
     id: "4",
-    question: "Do you have corporate plans?",
+    question: "Do you offer corporate plans?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Yes, Infi Spark provides comprehensive corporate solutions, including scalable software and dedicated support tailored to business needs.",
   },
   {
     id: "5",
-    question: "What happens when I’m out of storage?",
+    question: "What happens when I need additional resources?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Infi Spark ensures scalability. You can easily upgrade your resources or services based on your growing business needs.",
   },
   {
     id: "6",
     question: "Can I upgrade my plan?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Absolutely! You can upgrade your plan at any time to access advanced features and additional support from the Infi Spark team.",
   },
   {
     id: "7",
-    question: "How do I invite my team?",
+    question: "How do I invite my team to collaborate?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Infi Spark's collaboration tools make inviting your team simple. Share invites directly and manage roles seamlessly from your dashboard.",
   },
   {
     id: "8",
     question: "Do you offer training for individuals and teams?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Yes, Infi Spark provides comprehensive training programs to ensure individuals and teams make the most out of our solutions.",
   },
   {
     id: "9",
-    question: "I’m locked out of my account what do I do?",
+    question: "I’m locked out of my account. What do I do?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "If you're locked out, our 24/7 support team at Infi Spark is ready to assist. Contact us to regain access promptly.",
   },
 ];
 
